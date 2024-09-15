@@ -1,0 +1,15 @@
+C:\Users\User\Documents\aula1\repeti-o\bin\Debug\net8.0\repeti-o.exe
+C:\Users\User\Documents\aula1\repeti-o\bin\Debug\net8.0\repeti-o.deps.json
+C:\Users\User\Documents\aula1\repeti-o\bin\Debug\net8.0\repeti-o.runtimeconfig.json
+C:\Users\User\Documents\aula1\repeti-o\bin\Debug\net8.0\repeti-o.dll
+C:\Users\User\Documents\aula1\repeti-o\bin\Debug\net8.0\repeti-o.pdb
+C:\Users\User\Documents\aula1\repeti-o\obj\Debug\net8.0\repeti-o.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\aula1\repeti-o\obj\Debug\net8.0\repeti-o.AssemblyInfoInputs.cache
+C:\Users\User\Documents\aula1\repeti-o\obj\Debug\net8.0\repeti-o.AssemblyInfo.cs
+C:\Users\User\Documents\aula1\repeti-o\obj\Debug\net8.0\repeti-o.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\aula1\repeti-o\obj\Debug\net8.0\repeti-o.sourcelink.json
+C:\Users\User\Documents\aula1\repeti-o\obj\Debug\net8.0\repeti-o.dll
+C:\Users\User\Documents\aula1\repeti-o\obj\Debug\net8.0\refint\repeti-o.dll
+C:\Users\User\Documents\aula1\repeti-o\obj\Debug\net8.0\repeti-o.pdb
+C:\Users\User\Documents\aula1\repeti-o\obj\Debug\net8.0\repeti-o.genruntimeconfig.cache
+C:\Users\User\Documents\aula1\repeti-o\obj\Debug\net8.0\ref\repeti-o.dll
